@@ -85,12 +85,12 @@
                 </li>
                 Git permite el control de versiones en el desarrollo de software, lo que significa que se puede rastrear y revertir cambios en el código. Esto es fundamental para trabajar en equipo y mantener un historial del código. Por otro lado, GitHub, como plataforma de alojamiento de repositorios Git, permite la colaboración en equipo en tiempo real. Los miembros del equipo pueden trabajar en el mismo proyecto y realizar cambios sin interferir en el trabajo de otros. Ambos permiten el almacenamiento en la nube del código fuente, lo que significa que el código siempre estará disponible y no se perderá en caso de un fallo en el sistema
                 <br>
-      		    <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br>
+      		    <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br></li>
                 Git permite el control de versiones en el desarrollo de software, lo que significa que se puede rastrear y revertir cambios en el código. Esto es fundamental para trabajar en equipo y mantener un historial del código. Por otro lado, GitHub, como plataforma de alojamiento de repositorios Git, permite la colaboración en equipo en tiempo real. Los miembros del equipo pueden trabajar en el mismo proyecto y realizar cambios sin interferir en el trabajo de otros. Ambos permiten el almacenamiento en la nube del código fuente, lo que significa que el código siempre estará disponible y no se perderá en caso de un fallo en el sistema
                 <br>
+      		    	<li>¿Qué son los entándares de codificación?<br>
                 </li>
-      		    	<li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br>
-                </li>
+                 Los estándares de codificación son un conjunto de reglas y pautas que se establecen con el fin de normalizar la forma de escribir código en un proyecto de desarrollo de software. Pueden incluir reglas sobre la indentación, el uso de espacios o tabulaciones, la longitud de las líneas de código, la nomenclatura de variables y funciones, la documentación del código, entre otros aspectos. La implementación de estos estándares puede ayudar a garantizar cierto nivel de consistencia en el código y mejorar la colaboración y eficiencia del equipo de desarrollo.
     	        </ul>
             </td>
           </tr>
