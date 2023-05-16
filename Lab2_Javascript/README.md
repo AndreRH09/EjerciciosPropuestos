@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div>
 <table width="1000px">
     <theader>
@@ -33,14 +32,11 @@
             <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 02</td></tr>
             <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Vim - Git - GitHub</td></tr>
             <tr><td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td width="60px">  III  </td></tr>
-            <tr><td>FECHA DE PRESENTACIÓN:</td><td>15-May-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">xx:xx</td></tr>
+            <tr><td>FECHA DE PRESENTACIÓN:</td><td>16-May-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">xx:xx</td></tr>
             <tr>
               <td colspan="4">NOMBRE:
                 <ul>
             	    <li>Añazco Huamanquispe, Andre Renzo</li>
-            	    <li>Huamaní Vargas, Melsy Melany</li>
-            	    <li>Turpo Añasco, Jhamil Yeyder</li>
-            	    <li>Vilca Quispe, Frank's Javier</li>
                 </ul>
               </td>
               <td>NOTA:</td><td></td>
