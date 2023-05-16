@@ -24,13 +24,13 @@
 </div>
 
 <div align="center">
-    <table width="1000px">
-        <theader>
+<table width="1000px">
+<theader>
             <tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
         </theader>
         <tbody>
             <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 02</td></tr>
-            <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Vim - Git - GitHub</td></tr>
+            <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Javascript</td></tr>
             <tr><td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td width="60px">  III  </td></tr>
             <tr><td>FECHA DE PRESENTACIÓN:</td><td>16-May-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">xx:xx</td></tr>
             <tr>
@@ -49,7 +49,7 @@
               </td>
             </tr>
         </tbody>
-    </table>
+   </table>
 </div>
 
 #
