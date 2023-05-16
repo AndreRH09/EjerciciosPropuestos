@@ -265,7 +265,7 @@
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
 
-- Evidencia :  del trabajo realizzado<br>
+- Evidencia del trabajo realizado<br> Se utilizo<br>algo
 ![Imprimir nombre](images/IngresoNombre.png)  
 #
 
