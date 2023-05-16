@@ -62,18 +62,20 @@
         </theader>
         <tbody>
           <tr>
-            <td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br/>
-                - Cree una cuenta de usuario en GitHub usando su correo institucional.
-                - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
-                - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
-                - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
-                - Debería haber minimo 7 commits:
-                    - 1er commit - Creación de la plantilla "Calculator.java"
-                    - 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().
-                    - 3er commit - Uniendo rama "ramma-sub" al "main" para obtener metodo sub().
-                    - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
-                    - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
-                    - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
+            <td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
+                - Cree una cuenta de usuario en GitHub usando su correo institucional.<br>
+                - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).<br>
+                - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.<br>
+                - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.<br>
+                - Debería haber minimo 7 commits:<br>
+                <ol>
+                    <li>1er commit - Creación de la plantilla "Calculator.java" <br></li>
+                    <li>- 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().<br></li>
+                    <li>- 3er commit - Uniendo rama "ramma-sub" al "main" para obtener metodo sub().<br></li>
+                    <li>- 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().<br></li>
+                    <li>- 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().<br></li>
+                    <li>- 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().<br></li>
+                </ol>
             </td>
           </tr>
           <tr>
@@ -98,8 +100,6 @@
           </tr>
           <tr>
             <td>III. CONCLUSIONES<br/>
-                
-                
                 ¿Qué son los entándares de codificación?
             </td>
           </tr>
