@@ -14,7 +14,7 @@
     </theader>
     <tbody>
         <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio</td></tr>
-        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2023/05/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
 </div>
@@ -31,7 +31,7 @@
         <tbody>
             <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 02</td></tr>
             <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Javascript</td></tr>
-            <tr><td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td width="60px">  III  </td></tr>
+            <tr><td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td width="60px">  III  </td></tr>
             <tr><td>FECHA DE PRESENTACIÓN:</td><td>16-May-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">xx:xx</td></tr>
             <tr>
               <td colspan="4">NOMBRE:
